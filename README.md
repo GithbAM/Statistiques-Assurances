@@ -18,7 +18,7 @@ L'objectif est de développer des modèles statistiques robustes pour la tarific
 
 ## Contenu du repository
 
-- **`Projet_M2_Statistiques_des_assurances.pdf`** : Rapport complet (28 pages) avec analyse détaillée, méthodologie, résultats et interprétations
+- **`Projet_Assurance.pdf`** : Rapport complet (28 pages) avec analyse détaillée, méthodologie, résultats et interprétations
 - **`Code_Annexe_Stats_des_Assusrances_ALBERI_Markus.pdf`** : Code R commenté (56 pages) avec toutes les analyses réalisées
 
 ## Méthodologies utilisées
